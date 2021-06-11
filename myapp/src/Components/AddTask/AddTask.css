@@ -1,0 +1,23 @@
+.task_div{
+margin-top: 3%;
+display: flex;
+justify-content: space-between;
+margin-bottom: 3%;
+}
+
+.add_div{
+display: flex;
+width: 30%;
+justify-content: space-between;
+align-items: center;
+}
+
+.add_div input {
+height:25px;
+width: 70%;
+}
+
+.add_div button {
+height:100%;
+width : 80px;
+}

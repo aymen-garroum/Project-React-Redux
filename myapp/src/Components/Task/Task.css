@@ -1,0 +1,26 @@
+.task_element{
+display: flex;
+justify-content: space-between;
+border: solid 1px;
+border-radius: 5px;
+margin-bottom: 1%;    
+}
+
+.div_checkbox{
+display: flex;
+align-items: center;
+}
+
+.div_checkbox label{
+padding-bottom: 2px;
+}
+
+.div_checkbox input {
+height: 100%;
+}
+
+.input_task{
+width: 90%;
+border-radius: 5px;
+border: none;
+}
